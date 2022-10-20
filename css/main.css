@@ -1,0 +1,28 @@
+.superiorp {
+    font-weight: 700;
+    line-height: 1.25rem;
+    color: var(--Bright-Yellow);
+    margin-bottom: 1rem;
+}
+
+.superior p:last-child {
+    line-height: 1.625rem;
+    color: var(--Grayish-Blue);
+    font-size: 0.875rem;
+}
+
+.superior {
+    padding-inline: 1.5rem;
+    padding-block: 2rem;
+    background-color: #fff;
+}
+
+.esquerda {
+    background-color: var(--Cyan);
+    padding: 1.5rem;
+}
+
+.direita {
+    background-color: var(--Light-Cyan);
+    padding: 1.5rem;
+}
